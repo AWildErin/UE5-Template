@@ -1,0 +1,6 @@
+[submodule "Plugins/UEGitPlugin"]
+	path = Plugins/UEGitPlugin
+	url = https://github.com/ProjectBorealis/UEGitPlugin.git
+[submodule "Documentation/doxygen/doxygen-awesome-css"]
+	path = Documentation/doxygen/doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git
